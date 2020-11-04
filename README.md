@@ -1,7 +1,5 @@
 # portfolio
 
-This is technically my first repository
+## I shall convert this to be my portfolio repository and build my website upon it.
 
-##I shall convert tihis to be my portfolio repo
-
-This is the edit branch
+This is the second edit branch
