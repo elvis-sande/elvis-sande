@@ -1,6 +1,6 @@
 <!-- RESUME in Markdown -->
 
-# Elvis Sande
+# [Elvis Sande](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
 [Email me 📩](mailto:elvischris00@hotmail.com)
 
@@ -9,7 +9,7 @@
 
 ---
 
-## Extracurricular Engagements
+## Extra-curricular Engagements
 
 ### [Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021)
 
@@ -20,10 +20,8 @@ The GADS program gives participants free access to courses, projects, labs, skil
 <details>
 <summary><b>Key Accomplishments</b></summary>
 
-* I clarified programming concepts mentees did not fully understand when learning android development and
-enabled them achieve their learning targets and get scholarships for Android developer certification
-* I identified learning areas of improvement and gave feedback to the learning community, and shared additional
-learning resources to learners
+* I clarified programming concepts mentees did not fully understand when learning android development and enabled them achieve their learning targets and get scholarships for Android developer certification
+* I identified learning areas of improvement and gave feedback to the learning community, and shared additional learning resources to learners
 
 </details>
 
@@ -63,9 +61,7 @@ business and proposed cyber security solutions the client had not implemented th
   <summary><b>Key Accomplishments</b></summary>
 
 * I fixed a broken data-feed script and designed a web application that displayed data from the server application as a live graph
-* I added a live chart to a trader’s dashboard which displayed data in a clear and visually appealing way
-allowing traders to better identify under and overvalued stocks
-* I learned how to create software patch files
+* I added a live chart to a trader’s dashboard which displayed data in a clear and visually appealing way allowing traders to better identify under and overvalued stocks
 
 </details>
 
@@ -76,10 +72,8 @@ allowing traders to better identify under and overvalued stocks
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I used UX design principles to identify poor UX in a client’s e-commerce website and an internal app,
-designed wireframes and implemented the solution, improving user experience for the software clients
-* I used simple data analytics techniques on the client’s sales and client data to provide her with business
-recommendations to improve sales thus increasing profit
+* I used UX design principles to identify poor UX in a client’s e-commerce website and an internal app, designed wireframes and implemented the solution, improving user experience for the software clients
+* I used simple data analytics techniques on the client’s sales and client data to provide her with business recommendations to improve sales thus increasing profit
 * I analyzed an email phishing trojan document
 
 </details>
@@ -91,10 +85,8 @@ recommendations to improve sales thus increasing profit
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I helped advise and guide a client in their market scan, evaluation and selection for a new financial accounting
-management solution
-* I did cloud feasibility and cloud readiness assessments for a large university that wanted to optimize and
-improve their services
+* I helped advise and guide a client in their market scan, evaluation and selection for a new financial accounting management solution
+* I did cloud feasibility and cloud readiness assessments for a large university that wanted to optimize and improve their services
 * I migrated the university's applications to the cloud and improved their outdated IT assets which were unreliable
 
 </details>
@@ -105,11 +97,11 @@ improve their services
 
 **Cyber Security**:
 
-* Penetration testing
-* Network - application security
-* Bug hunting
+* Penetration testing, bug hunting, ethical hacking
+* Network - application security, cloud security
 * Compliance and crisis mitigation planning
 * Incidence response & cyber forensics
+* Cyber Criminology, Forensic Psychology
 
 **Data Science**:
 
@@ -125,22 +117,21 @@ improve their services
 * UX and UI design
 * Object oriented programming, functional programming
 * Software testing
+* Full stack web and android development
 
 **DevOps**:
 
-* Agile SDLC, project planning
-* Version control
-* CI/CD, continuous deployment.
-* BDD
-* Infrastructure as code
+* Cloud development and integration
+* Agile SDLC and project planning
+* SecDevOps, BDD
+* Infrastructure as Code
+* CI/CD, continuous deployment
 
-**Cloud Engineering**:
+**Machine Learning and AI**:
 
-* Cloud application development
-* Resource provisioning
-* Configuration and management
-* Cloud security and access configuration
-* Public and multi cloud deployment
+* Computer Vision
+* Sentiment analysis
+* Building bots
 
 **IT Administration**:
 
@@ -149,16 +140,6 @@ improve their services
 * VPN and network segmentation
 * Resource monitoring
 * Troubleshooting
-
-**Machine Learning and Artificial Intelligence**:
-
-* Computer Vision
-* Sentiment analysis
-* Building bots
-
-**Telecoms**:
-
-* Cable Communication, radio, satellite, GPRS/GSM
 
 **Multimedia**:
 
@@ -223,8 +204,6 @@ improve their services
 </a> 
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a>
 </p>
 
@@ -244,9 +223,11 @@ KCA University | `2019-Now`\
 
 ### Kanga High School
 
-Mean: `B+` 2012-2015
+Mean: `B+` 2012-2015\
+**Acomplishments**: *National Science Congress participant*
 
 **Other Certifications**:
+
 * CISCO Cybersecurity Certificate
 * Google IT Support Professional Certificate
 * Google Developer Student Club Lead Certificate
@@ -262,7 +243,7 @@ Mean: `B+` 2012-2015
 
 *Co-Founder & Software Engineer | `2021- Ongoing`*
 
-Bookyt is a startup founded by myself that deals with research in the fields of AI, cryptography and blockchain technology, and develop future-proof technical solutions enabling clients to achieve their goals without worries. 
+Bookyt is a startup founded by myself that deals with research in the fields of AI, cryptography and blockchain technology, and develops future-proof technical solutions enabling clients to achieve their goals without worries.
 
 <details>
   <summary><b>Our ongoing R&D projects</b></summary>
