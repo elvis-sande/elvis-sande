@@ -1,8 +1,9 @@
 <!-- RESUME in Markdown -->
 
-# [Elvis Sande](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
+# Elvis Sande
 
-[Email me 📩](mailto:elvischris00@hotmail.com)
+* [Email me 📩](mailto:elvischris00@hotmail.com)
+* [Download resume](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
 **Cyber Security Engineer** | **Software Architect** | **Software Developer**
 > I love building software, art, engineering, music, eating fruits, doing research, peace and other nice things in life
@@ -190,9 +191,6 @@ business and proposed cyber security solutions the client had not implemented th
 </a> 
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
 <a href="https://www.sqlite.org/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
