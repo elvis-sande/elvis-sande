@@ -3,7 +3,6 @@
 # Elvis Sande
 
 * [Email me 📩](mailto:elvischris00@hotmail.com)
-* [My Github](https://github.com/elvis-sande)
 
 ---
 **Cyber Security Engineer** | **Software Architect** | **Software Developer**
@@ -12,11 +11,11 @@
 
 ## Extracurricular Engagements
 
-### Andela Kenya
+### [Andela Kenya](https://www.pluralsight.com/partners/google/africa/gads-2021)
 
 *Google Africa Developer Scholarship (Volunteer) | `2021- 2022`*
 
-The Google Africa Developer Scholarship (GADS) program gives participants free access to select courses, projects, embedded labs and skill assessments, plus support from the Google Developer community to help them build the skills they need to get a job in tech after the program is over.
+The Google Africa Developer Scholarship (GADS) program gives participants free access to courses, projects, labs, skill assessments, plus support from the Google Developer community to help them build the skills they need to get a job in tech after the program is over.
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
@@ -28,11 +27,11 @@ learning resources to learners
 
 </details>
 
-### Empowermefirst.college
+### [Empowermefirst.college](https://empowermefirst.college/)
 
 *ICT Technician (Volunteer) | `2021`*
 
-Empowermefirst.college makes high school, upper secondary education and university entry education accessible for free for the most vulnerable, on a mobile phone.
+Empowermefirst.college makes high school, upper secondary education and university entry education accessible to the most vulnerable, for free on a mobile phone.
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
@@ -156,6 +155,14 @@ Mean: `B+` 2012-2015
 * BDD
 * Infrastructure as code
 
+**Cloud Engineering**:
+
+* Cloud application development
+* Resource provisioning
+* Configuration and management
+* Cloud security and access configuration
+* Public and multi cloud deployment
+
 **IT Administration**:
 
 * Hardware provisioning and configuration
@@ -163,14 +170,6 @@ Mean: `B+` 2012-2015
 * VPN and network segmentation
 * Resource monitoring
 * Troubleshooting
-
-**Cloud Engineering**:
-
-* Cloud application development
-* Resource provisioning
-* Configuration and management
-* Cloud security and access configuration
-* Public, private, hybrid and multi cloud deployment
 
 **Machine Learning and Artificial Intelligence**:
 
@@ -185,7 +184,7 @@ Mean: `B+` 2012-2015
 **Multimedia**:
 
 * Music production
-* Basic visual effects
+* Visual effects
 
 **Current Tech Stack**:
 
