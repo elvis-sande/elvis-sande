@@ -4,9 +4,9 @@
 
 * [Email me 📩](mailto:elvischris00@hotmail.com)
 
----
 **Cyber Security Engineer** | **Software Architect** | **Software Developer**
-> I love lo-fi music, action movies, eating fruits and other nice things in life.
+> I love building software, art, engineering, music, eating fruits, doing research, peace and other nice things in life
+
 ---
 
 ## Extracurricular Engagements
