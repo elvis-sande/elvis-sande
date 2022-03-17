@@ -11,11 +11,11 @@
 
 ## Extracurricular Engagements
 
-### [Andela Kenya](https://www.pluralsight.com/partners/google/africa/gads-2021)
+### [Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021)
 
-*Google Africa Developer Scholarship (Volunteer) | `2021- 2022`*
+*Mentor (Volunteer) | `2021- 2022`*
 
-The Google Africa Developer Scholarship (GADS) program gives participants free access to courses, projects, labs, skill assessments, plus support from the Google Developer community to help them build the skills they need to get a job in tech after the program is over.
+The GADS program gives participants free access to courses, projects, labs, skill assessments, plus support from the Google Developer community to help them build the skills they need to get a job in tech after the program is over.
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
@@ -98,27 +98,6 @@ improve their services
 * I migrated the university's applications to the cloud and improved their outdated IT assets which were unreliable
 
 </details>
-
----
-
-## Education
-
-### BSc. Applied Computing (Information Security & Forensics maj.)
-
-KCA University | `2019-Now`\
-**Acomplishments**: *GDSC Lead 2020-2021*
-
-### Kanga High School
-
-Mean: `B+` 2012-2015
-
-**Other Certifications**:
-* CISCO Cybersecurity Certificate
-* Google IT Support Professional Certificate
-* Google Developer Student Club Lead Certificate
-* Blockchain: University at Buffalo - (Ongoing MOOC)
-* Principles of Computer Vision: Columbia University - (Ongoing MOOC)
-* Python for Cybersecurity: INFOSEC - (Ongoing MOOC)
 
 ---
 
@@ -256,32 +235,47 @@ Mean: `B+` 2012-2015
 
 ---
 
+## Education
+
+### BSc. Applied Computing (Information Security & Forensics)
+
+KCA University | `2019-Now`\
+**Acomplishments**: *GDSC Lead 2020-2021*
+
+### Kanga High School
+
+Mean: `B+` 2012-2015
+
+**Other Certifications**:
+* CISCO Cybersecurity Certificate
+* Google IT Support Professional Certificate
+* Google Developer Student Club Lead Certificate
+* Blockchain: University at Buffalo - (Ongoing MOOC)
+* Principles of Computer Vision: Columbia University - (Ongoing MOOC)
+* Python for Cybersecurity: INFOSEC - (Ongoing MOOC)
+
+---
+
 ## Projects
 
-### BOOKYT INVESTMENTS
+### [BOOKYT INVESTMENTS](https://github.com/Bookyt)
 
 *Co-Founder & Software Engineer | `2021- Ongoing`*
 
-Bookyt is a company founded by myself that deals with research in the fields of AI, cryptography and blockchain technology, and develop future-proof technical solutions enabling clients to achieve their goals without worries. 
+Bookyt is a startup founded by myself that deals with research in the fields of AI, cryptography and blockchain technology, and develop future-proof technical solutions enabling clients to achieve their goals without worries. 
 
 <details>
   <summary><b>Our ongoing R&D projects</b></summary>
 
-* We are conducting research in developing a new cheap, fast and efficient blockchain by converting SQL databases into encrypted ledgers
-* We are developing a cryptocurrency exchange mobile application as a POC for the blockchain (kind of like an online bank) to enable anyone mint their own fungible or non-fungible tokens by depositing money into the exchange, transfer tokens from any location/account/user to any other location/user/account on earth, and destroy/withdraw tokens, all for free, or worst case very cheap
-* We are developing a digital contracts mobile application on top of the blockchain as a POC to enable clients create digital, secure contracts of any kind, like title deeds, agreements, and so on
+* We are conducting research in developing a new, fast, cheap and efficient blockchain by using principles of blockchain to convert SQL databases into encrypted, tamper-proof ledgers
+* We are developing a cryptocurrency exchange mobile application as a POC for the SQL blockchain (kind of like an online bank) to enable anyone mint their own fungible or non-fungible tokens by depositing money into the exchange, transfer tokens from any location/account/user to any other location/user/account on earth, and destroy/withdraw tokens, all for free, or worst case very cheap
+* We are developing a digital contracts mobile application on top of the SQL blockchain as a POC to enable clients create digital, secure contracts of any kind, like title deeds, agreements, and so on
 * We are working on a generalized state-of-the-art computer-vision and object detection AI model to deploy on devices that can be used for corporate or private use in a variety of use cases
 * We have other projects on solar and wind energy, and using robots and IOT devices for 'smart farming'
 
 </details>
 
-**[Check out Bookyt](https://github.com/Bookyt)**
-
-## Languages
-
-* English (Professional Working Proficiency)
-* Swahili (Native)
-
+---
 <h3 align="left">My other social links:</h3>
 <p align="left">
 <a href="https://codepen.io/elvis-sande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elvis-sande" height="30" width="40" />
