@@ -5,90 +5,105 @@
 * [Email me 📩](mailto:elvischris00@hotmail.com)
 * [Download resume](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
-**Cyber Security Engineer** | **Software Architect** | **Software Developer**
-> I love building software, art, engineering, music, eating fruits, doing research, peace and other nice things in life
+**Computer Scientist specialized in Cybersecurity**
+> I love building software, art, engineering, music, research, peace and other nice things in life
 
 ---
 
 ## Extra-curricular Engagements
 
-### [Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021)
+### [Amatsi Water And Sewerage Company](https://amatsiwater.co.ke/)
 
-*Mentor (Volunteer) | `2021- 2022`*
-
-The GADS program gives participants free access to courses, projects, labs, skill assessments, plus support from the Google Developer community to help them build the skills they need to get a job in tech after the program is over.
+*I.C.T Attaché | `September 2022 - now `*
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
 
-* I clarified programming concepts mentees did not fully understand when learning android development and enabled them achieve their learning targets and get scholarships for Android developer certification
-* I identified learning areas of improvement and gave feedback to the learning community, and shared additional learning resources to learners
+* I merge paper records about inventory, provisioned resources and client details into the company database ensuring company data is up to date, synchronized and easy to manage from one access point.   
+
+</details>
+
+### [County Government of Kisumu](https://www.kisumu.go.ke/)
+
+*I.C.T Attaché | `April 2022- June 2022`*
+
+<details>
+<summary><b>Key Accomplishments</b></summary>
+
+* I played a supportive role in the organizing of the 9th Africities Summit 2022 held in Kisumu that was attended by over 3500 delegates, dignitaries and investors from over 2000 local authorities  
+* I quickly resolved technical issues government officials faced with the network, computers, other hardware and software installed in their systems. 
+
+</details>
+
+### [Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021)
+
+*Volunteer Mentor | `2021- 2022`*
+
+<details>
+<summary><b>Key Accomplishments</b></summary>
+
+* I clarified programming concepts mentees did not fully understand when learning android development, shared learning resources and enabled them achieve their learning targets and get scholarships for Android developer certification 
+* I identified learning areas of improvement and gave feedback to the Andela community.
 
 </details>
 
 ### [Empowermefirst.college](https://empowermefirst.college/)
 
-*ICT Technician (Volunteer) | `2021`*
-
-Empowermefirst.college makes high school, upper secondary education and university entry education accessible to the most vulnerable, for free on a mobile phone.
+*Volunteer ICT Technician | `2021`*
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I secured internal communication channels from attack by scammers and hackers
-* I assisted in developing a training guide for non-ICT volunteers and staff on basic cyber security best practices
-* I assisted in migrating the previous Learning Management System from a demo LMS to Moodle to ease the task of coursework creation and assignment grading for tutors
-* I created a user manual for the new LMS
+* I assisted in migrating the previous Learning Management System from a demo LMS to Moodle and created a user manual for the learning system to ease the task of coursework creation and assignment grading for tutors 
+* I assisted in developing a training guide for volunteers and staff on basic cyber security best practices 
+* I secured  the company’s communication channels from attack by malicious online users 
 
 </details>
 
 ### PricewaterhouseCoopers
 
-*Cybersecurity Internship (Virtual Program participant) | `2021`*
+*Cybersecurity consultant intern | `2021`*
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I performed information risk impact assessment and information risk management analysis for a client’s
-business and proposed cyber security solutions the client had not implemented that would make their network more resilient, and slow down/stop a cyberattack targeting their IOT devices
+* I performed information risk impact assessment and risk management analysis for a client’s business and proposed cyber security solutions making their network more resilient, against cyberattacks targeting their IOT devices 
 
 </details>
 
 ### JP Morgan Chase
 
-*Software Engineer Internship (Virtual Program participant) | `2021`*
+*Software Engineer Intern | `2021`*
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I fixed a broken data-feed script and designed a web application that displayed data from the server application as a live graph
-* I added a live chart to a trader’s dashboard which displayed data in a clear and visually appealing way allowing traders to better identify under and overvalued stocks
+* I fixed a broken data-feed script in a web application that displayed data from the server application as a live graph which displayed data in a clear and visually appealing graphic allowing traders to better identify under and overvalued stocks 
 
 </details>
 
 ### Commonwealth Bank, Australia
 
-*Software Engineer Internship (Virtual Program participant) | `2021`*
+*Software Engineer Intern | `2021`*
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I used UX design principles to identify poor UX in a client’s e-commerce website and an internal app, designed wireframes and implemented the solution, improving user experience for the software clients
-* I used simple data analytics techniques on the client’s sales and client data to provide her with business recommendations to improve sales thus increasing profit
-* I analyzed an email phishing trojan document
+* I used UX design principles to identify poor UX in an internal app and a client’s website, designed wireframes and implemented the solution, improving user experience for the software clients 
+* I conducted data analysis on a client’s sales records and provided her with business recommendations to improve sales thus increasing profit 
+* I analyzed a trojan document received in a phishing email 
 
 </details>
 
 ### Deloitte
 
-*Technology Consultant Internship (Virtual Program participant) | `2021`*
+*Technology Consultant Intern | `2021`*
 
 <details>
   <summary><b>Key Accomplishments</b></summary>
 
-* I helped advise and guide a client in their market scan, evaluation and selection for a new financial accounting management solution
-* I did cloud feasibility and cloud readiness assessments for a large university that wanted to optimize and improve their services
-* I migrated the university's applications to the cloud and improved their outdated IT assets which were unreliable
+* I helped advise and guide a client in their market scan, evaluation and selection for a new financial accounting management solution 
+* I did cloud feasibility and cloud readiness assessments for a university, migrated the university's applications to the cloud and replaced their outdated IT hardware 
 
 </details>
 
@@ -96,51 +111,62 @@ business and proposed cyber security solutions the client had not implemented th
 
 ## Core Skills
 
+**IT Administration**:
+
+* IT compliance 
+* Crisis mitigation planning 
+* Incidence response 
+* Project planning 
+* Agile SDLC 
+* BDD 
+
 **Cyber Security**:
 
-* Penetration testing, bug hunting, ethical hacking
-* Network - application security, cloud security
-* Compliance and crisis mitigation planning
-* Incidence response & cyber forensics
-* Cyber Criminology, Forensic Psychology
+* MITRE ATT&CK & SHIELD framework 
+* Penetration testing 
+* Resource development and scripting 
+* Network security 
+* Cloud security 
+* Cyber forensics 
+* Cyber criminology 
+* Forensic psychology.
 
 **Data Science**:
 
-* RDBMS, databases
-* Data structures and algorithms
-* Business analytics
-* Time series forecasting
+* Data structures 
+* Statistics 
+* Business analytics 
 * Data visualization
 
 **Software Development**:
 
 * Requirements gathering, Documentation
 * UX and UI design
-* Object oriented programming, functional programming
-* Software testing
-* Full stack web and android development
+* Programming
+* Android app development
+* Testing and QA
 
 **DevOps**:
 
-* Cloud development and integration
-* Agile SDLC and project planning
-* SecDevOps, BDD
-* Infrastructure as Code
-* CI/CD, continuous deployment
+* Cloud development and integration 
+* SecDevOps 
+* CI/CD 
+* Continuous deployment 
 
 **Machine Learning and AI**:
 
-* Computer Vision
-* Sentiment analysis
-* Building bots
+* Computer vision 
+* Deep learning 
+* Automated bots
 
-**IT Administration**:
+**I.C.T**: 
 
-* Hardware provisioning and configuration
-* LAN/WAN, TCP/IP networking
-* VPN and network segmentation
-* Resource monitoring
-* Troubleshooting
+* IT support 
+* Hardware and software installation, configuration & maintenance
+* Resource monitoring 
+* LAN/WAN configuration 
+* VPN configuration 
+* Network design, implementation, segmentation 
 
 **Multimedia**:
 
@@ -149,14 +175,20 @@ business and proposed cyber security solutions the client had not implemented th
 
 **Current Tech Stack**:
 
-* **Languages**: JS, Kotlin, Java, Python, YAML
+* **Languages**: C, C++, Kotlin, JS, Java, Python, YAML
 * **Tools**: Git, NPM, jupyter, gradle
-* **Frontend**: Bootstrap 4, React, Material UI
+* **Frontend**: CSS, React, Jetpack compose
 * **Backend**: Node.JS, SQLite, IBM Cloud, Azure, GCP
-* **DevOps**: Docker, Docker Compose, Nginx, Github Actions
+* **DevOps**: Docker, Nginx, Github Actions
 * **OS**: GNU/Linux, Windows, Android
 
 <p align="left"> 
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+</a>  
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+</a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
@@ -216,22 +248,19 @@ business and proposed cyber security solutions the client had not implemented th
 
 ### BSc. Applied Computing (Information Security & Forensics)
 
-KCA University | `2019-Now`\
+KCA University | `2019 - 2022`\
 **Acomplishments**: *GDSC Lead 2020-2021*
 
 ### Kanga High School
 
 Mean: `B+` 2012-2015\
-**Acomplishments**: *National Science Congress participant*
+**Acomplishments**: *National Science Congress #2 in Rongo Sub-County*
 
 **Other Certifications**:
 
 * CISCO Cybersecurity Certificate
 * Google IT Support Professional Certificate
 * Google Developer Student Club Lead Certificate
-* Blockchain: University at Buffalo - (Ongoing MOOC)
-* Principles of Computer Vision: Columbia University - (Ongoing MOOC)
-* Python for Cybersecurity: INFOSEC - (Ongoing MOOC)
 
 ---
 
@@ -241,16 +270,14 @@ Mean: `B+` 2012-2015\
 
 *Co-Founder & Software Engineer | `2021- Ongoing`*
 
-Bookyt is a startup founded by myself that deals with research in the fields of AI, cryptography and blockchain technology, and develops future-proof technical solutions enabling clients to achieve their goals without worries.
+Bookyt is a startup founded by myself and a partner that deals with research, development and sale of software and hardware 
 
 <details>
   <summary><b>Our ongoing R&D projects</b></summary>
 
-* We are conducting research in developing a new, fast, cheap and efficient blockchain by using principles of blockchain to convert SQL databases into encrypted, tamper-proof ledgers
-* We are developing a cryptocurrency exchange mobile application as a POC for the SQL blockchain (kind of like an online bank) to enable anyone mint their own fungible or non-fungible tokens by depositing money into the exchange, transfer tokens from any location/account/user to any other location/user/account on earth, and destroy/withdraw tokens, all for free, or worst case very cheap
-* We are developing a digital contracts mobile application on top of the SQL blockchain as a POC to enable clients create digital, secure contracts of any kind, like title deeds, agreements, and so on
-* We are working on a generalized state-of-the-art computer-vision and object detection AI model to deploy on devices that can be used for corporate or private use in a variety of use cases
-* We have other projects on solar and wind energy, and using robots and IOT devices for 'smart farming'
+* We have an mathematical program for winning online games. 
+* We mine data, build and train custom machine learning models 
+* We build mobile apps 
 
 </details>
 
