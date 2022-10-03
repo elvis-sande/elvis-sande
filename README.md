@@ -6,7 +6,6 @@
 * [Download resume](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
 **Computer Scientist specialized in Cybersecurity**
-> I love building software, art, engineering, music, research, peace and other nice things in life
 
 ---
 
