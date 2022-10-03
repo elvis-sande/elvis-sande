@@ -242,8 +242,8 @@
 </p>
 <br> <br> <br> <br>  
 <br> <br> <br> <br>  
----  
-  
+
+---
 ## Education
 
 ### BSc. Applied Computing (Information Security & Forensics)
