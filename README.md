@@ -204,11 +204,11 @@
 * *GDSC Lead 2020-2021*  
 
 ### `2012 - 2015` | Kanga High School
-* **KCSE**: **B+** *(agp 67)
+* **KCSE**: **B+** *(agp 67)*
 * *National Science Congress #2 in Rongo Sub-County 2014*  
 
 ### `2009 - 2011` | Milimani Kitengela Junior Academy
-* **KCPE**: **(A)** *(agp 412) 
+* **KCPE**: **(A)** *(agp 412)* 
 
 ### `2006 - 2009` | Kitengela Academy 
 * Mean **(A)** 
