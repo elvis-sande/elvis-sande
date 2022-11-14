@@ -3,7 +3,7 @@
 # Elvis Sande Profile Resume (outdated)
 
 * [Email me 📩](mailto:elvischris00@hotmail.com)
-* [Official resume .doc](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
+* [Download resume .doc](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
 **Computer Scientist specialized in Cybersecurity**
 
@@ -88,69 +88,54 @@
 ## Core Skills
 
 **Information Security**:
-<details>
 * Identity & access management and protection 
 * Security risk assessment
 * ICT network & cloud security architecture policing
 * Intrusion detection and mitigation
 * Endpoint protection  
-</details>
 
 **Forensic Analysis**:
-<details>
 * Information auditing (data, logs, networks, incidence, evidence)
 * Digital evidence handling
 * Malware containment and analysis
 * Risk and incidence analysis and management  
-</Details>
 
 **Data Science**:
-<details>
 * MS Excel (math, analysis & visualization)
 * Jupyter Notebooks
 * Computer vision
 * Deep learning
 * Automated bots  
-</Details>
 
 **IT Administration**:
-<details>
 * IT regulatory compliance
 * Crisis mitigation and recovery planning
 * Project planning 
-* ICT process evaluation & design 
-</Details>
+* ICT process evaluation & design  
 
 **Software Development**:
-<details>
 * Android app dev 
 * DevOps (GitHub) 
 * Documentation 
 * Design (Figma/Canva) 
-* Testing and QA
-</details>
+* Testing and QA  
 
 **I.C.T**: 
-<details>
 * Systems and network design, installation, configuration & maintenance
 * Private network configuration 
-* Cloud (Google Drive, Google Cloud, Azure, IBM Cloud)
-</Details>
+* Cloud (Google Drive, Google Cloud, Azure, IBM Cloud)  
 
 **Multimedia**:
-<details>
 * Sound engineering
 * Video Editing  
-</details>
 
 **Current Tech Stack**:
-
 * **Languages**: C, C++, Kotlin, JS
 * **Tools**: Git, NPM, jupyter, gradle
 * **Frontend**: CSS, Jetpack compose
 * **Backend**: Node.JS, SQLite, IBM Cloud, Azure, GCP
 * **DevOps**: Github Actions
-* **OS**: GNU/Linux, Windows, Android
+* **OS**: GNU/Linux, Windows, Android  
 
 <p align="left"> 
 
