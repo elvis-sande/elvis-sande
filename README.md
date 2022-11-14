@@ -201,11 +201,11 @@
 
 ### `2019 - 2022` | KCA University
 * BSc. Applied Computing (Information Security & Forensics)
-* *GDSC Lead 2020-2021*  
+* GDSC Lead 2020-2021  
 
 ### `2012 - 2015` | Kanga High School
 * **KCSE**: **B+** *(agp 67)*
-* *National Science Congress #2 in Rongo Sub-County 2014*  
+* #2 I.C.T project in National Science Congress 2014, Rongo Sub-County  
 
 ### `2009 - 2011` | Milimani Kitengela Junior Academy
 * **KCPE**: **(A)** *(agp 412)* 
