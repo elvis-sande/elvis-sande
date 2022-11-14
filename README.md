@@ -215,17 +215,15 @@
 ## Education
 
 ### `2019 - 2022` | KCA University
-**Acomplishments**: 
 * BSc. Applied Computing (Information Security & Forensics)
 * *GDSC Lead 2020-2021*  
+
 ### `2012 - 2015` | Kanga High School
-**Acomplishments**: 
-* Mean: **B+**
+* **KCSE**: **B+** *(agp 67)
 * *National Science Congress #2 in Rongo Sub-County 2014*  
 
-### `2009 - 2011` | Milimani Kitengela Junior Academy 
-**Acomplishments**:
-* Mean: **(A)** 
+### `2009 - 2011` | Milimani Kitengela Junior Academy
+* **KCPE**: **(A)** *(agp 412) 
 
 ### `2006 - 2009` | Kitengela Academy 
 * Mean **(A)** 
