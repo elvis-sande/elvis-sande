@@ -1,9 +1,9 @@
 <!-- RESUME in Markdown -->
 
-# Elvis Sande
+# Elvis Sande Profile Resume (outdated)
 
 * [Email me 📩](mailto:elvischris00@hotmail.com)
-* [Download resume](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
+* [Official resume .doc](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
 **Computer Scientist specialized in Cybersecurity**
 
@@ -24,7 +24,7 @@
 
 ### [County Government of Kisumu](https://www.kisumu.go.ke/)
 
-*I.C.T Attaché | `April 2022- June 2022`*
+*I.C.T Attaché | `April 2022 - June 2022`*
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
@@ -36,7 +36,7 @@
 
 ### [Google Africa Developer Scholarship](https://www.pluralsight.com/partners/google/africa/gads-2021)
 
-*Volunteer Mentor | `2021- 2022`*
+*Volunteer Mentor | `2021 - 2022`*
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
@@ -88,53 +88,60 @@
 ## Core Skills
 
 **Information Security**:
-
+<details>
 * Identity & access management and protection 
 * Security risk assessment
 * ICT network & cloud security architecture policing
 * Intrusion detection and mitigation
 * Endpoint protection  
+</details>
 
 **Forensic Analysis**:
-
+<details>
 * Information auditing (data, logs, networks, incidence, evidence)
 * Digital evidence handling
 * Malware containment and analysis
 * Risk and incidence analysis and management  
+</Details>
 
 **Data Science**:
-
+<details>
 * MS Excel (math, analysis & visualization)
 * Jupyter Notebooks
 * Computer vision
 * Deep learning
 * Automated bots  
+</Details>
 
 **IT Administration**:
-
+<details>
 * IT regulatory compliance
 * Crisis mitigation and recovery planning
 * Project planning 
 * ICT process evaluation & design 
+</Details>
 
 **Software Development**:
-
+<details>
 * Android app dev 
 * DevOps (GitHub) 
 * Documentation 
 * Design (Figma/Canva) 
 * Testing and QA
+</details>
 
 **I.C.T**: 
-
+<details>
 * Systems and network design, installation, configuration & maintenance
 * Private network configuration 
 * Cloud (Google Drive, Google Cloud, Azure, IBM Cloud)
+</Details>
 
 **Multimedia**:
-
+<details>
 * Sound engineering
 * Video Editing  
+</details>
 
 **Current Tech Stack**:
 
@@ -148,62 +155,53 @@
 <p align="left"> 
 
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-</a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-</a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>  
 
 <a href="https://kotlinlang.org" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
 
 <a href="https://github.com/elvis-sande/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 
-<a href="https://www.jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>  
-</a>
+<a href="https://www.jupyter.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
+<a href="https://developer.android.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
 
 <a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
 
-<a href="https://cloud.google.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
 
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 
-<a href="https://www.sqlite.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> 
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
 
 
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 
 </p>
 
@@ -222,7 +220,7 @@
 * *GDSC Lead 2020-2021*  
 ### `2012 - 2015` | Kanga High School
 **Acomplishments**: 
-* Mean: **`B+`**
+* Mean: **B+**
 * *National Science Congress #2 in Rongo Sub-County 2014*  
 
 ### `2009 - 2011` | Milimani Kitengela Junior Academy 
