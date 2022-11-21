@@ -5,7 +5,7 @@
 * [Email me 📩](mailto:elvischris00@hotmail.com)
 * [Download resume .doc](https://1drv.ms/w/s!AsdSWFbPZLirn3Cf9xxoncfV7SEo?e=KdUaBu)
 
-**Computer Scientist specialized in Cybersecurity**
+**Computer Scientist specialized in information security**
 
 ---
 
@@ -54,32 +54,7 @@
   <summary><b>Key Accomplishments</b></summary>
 
 * I assisted in migrating the previous Learning Management System from a demo LMS to Moodle and created a user manual for the learning system to ease the task of coursework creation and assignment grading for tutors 
-* I assisted in developing a training guide for volunteers and staff on basic cyber security best practices 
-* I secured  the company’s communication channels from attack by malicious online users 
-
-</details>
-
-### PricewaterhouseCoopers
-
-*Cybersecurity consultant intern | `2021`*
-
-<details>
-  <summary><b>Key Accomplishments</b></summary>
-
-* I performed information risk impact assessment and risk management analysis for a client’s business and proposed cyber security solutions making their network more resilient, against cyberattacks targeting their IOT devices 
-
-</details>
-
-
-### Deloitte
-
-*Technology Consultant Intern | `2021`*
-
-<details>
-  <summary><b>Key Accomplishments</b></summary>
-
-* I helped advise and guide a client in their market scan, evaluation and selection for a new financial accounting management solution 
-* I did cloud feasibility and cloud readiness assessments for a university, migrated the university's data to cloud storage
+* I assisted in developing a training guide for volunteers and staff on basic cyber security best practices
 
 </details>
 
