@@ -11,7 +11,7 @@
 
 ## Extra-curricular Engagements
 
-### [Amatsi Water And Sewerage Company](https://amatsiwater.co.ke/)
+### [Amatsi Water And Sanitation Company](https://amatsiwater.co.ke/)
 
 *I.C.T Attaché | `September 2022 - now `*
 
