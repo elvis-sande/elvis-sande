@@ -94,11 +94,7 @@
 
 **Software Development**:
 * Full stack web development (JavaScript), android development (Koltin), game development (java, C/C++)    
-
-**I.C.T**: 
-* Systems and network design, installation, configuration & maintenance
-* Private network configuration 
-* Cloud (Google Drive, Google Cloud, Azure, IBM Cloud)    
+  
 
 
 <p align="left"> 
