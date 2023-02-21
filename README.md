@@ -13,13 +13,22 @@
 
 ### [Amatsi Water And Sanitation Company](https://amatsiwater.co.ke/)
 
-*I.C.T Attaché | `September 2022 - now `*
+*Billing Assistant | `February 2023 - now `*
 
 <details>
 <summary><b>Key Accomplishments</b></summary>
 
-* I merge paper records about inventory, provisioned resources and client details into the company database ensuring company data is up to date, synchronized and easy to manage from one access point.   
+* I create billing and payment accounts for new customers, as well as update existing customer details to streamline billing and payments.   
+* I generate bills, invoices and statements for residential, commercial and institutional customers
+</details>    
 
+*I.C.T Attaché | `September 2022 - January 2023 `*
+
+<details>
+<summary><b>Key Accomplishments</b></summary>
+
+* I merged paper records about meters in inventory and meters provisioned to clients into the company database ensuring metering data is up to date, synchronized and easy to manage from one access point.   
+* I installed and maintained (licensing) recommended software, and quickly resolved issues staff in different departments faced with the network, computers, software, hardware and electronics.     
 </details>
 
 ### [County Government of Kisumu](https://www.kisumu.go.ke/)
@@ -58,59 +67,39 @@
 
 </details>
 
+### [Bookyt Investments](https://www.github.com/bookyt)
+
+*Software Developer | `2021 - ongoing`*
+
+<details>
+<summary><b>Key Accomplishments</b></summary>
+
+* I develop, maintain and update software and games  
+* I mine and prepare data for training machine learning models    
+
+</details>
+
 ---
 
 ## Core Skills
 
 **Information Security**:
-* Identity & access management and protection 
-* Security risk assessment
-* ICT network & cloud security architecture policing
-* Intrusion detection and mitigation
-* Endpoint protection  
-
-**Forensic Analysis**:
-* Information auditing (data, logs, networks, incidence, evidence)
-* Digital evidence handling
-* Malware containment and analysis
-* Risk and incidence analysis and management  
+* Systems analysis, audit, security engineering      
 
 **Data Science**:
-* MS Excel (math, analysis & visualization)
-* Jupyter Notebooks
-* Computer vision
-* Deep learning
-* Automated bots  
+* Data labelling, processing and analysis, graphing and charting data 
 
 **IT Administration**:
-* IT regulatory compliance
-* Crisis mitigation and recovery planning
-* Project planning 
-* ICT process evaluation & design  
+* Networking, user support, Linux and cloud, IT infrastructure management      
 
 **Software Development**:
-* Android app dev 
-* DevOps (GitHub) 
-* Documentation 
-* Design (Figma/Canva) 
-* Testing and QA  
+* Full stack web development (JavaScript), android development (Koltin), game development (java, C/C++)    
 
 **I.C.T**: 
 * Systems and network design, installation, configuration & maintenance
 * Private network configuration 
-* Cloud (Google Drive, Google Cloud, Azure, IBM Cloud)  
+* Cloud (Google Drive, Google Cloud, Azure, IBM Cloud)    
 
-**Multimedia**:
-* Sound engineering
-* Video Editing  
-
-**Current Tech Stack**:
-* **Languages**: C, C++, Kotlin, JS
-* **Tools**: Git, NPM, jupyter, gradle
-* **Frontend**: CSS, Jetpack compose
-* **Backend**: Node.JS, SQLite, IBM Cloud, Azure, GCP
-* **DevOps**: Github Actions
-* **OS**: GNU/Linux, Windows, Android  
 
 <p align="left"> 
 
@@ -175,15 +164,13 @@
 ## Education
 
 ### `2019 - 2022` | KCA University
-* BSc. Applied Computing (Information Security & Forensics)
-* GDSC Lead 2020-2021  
+* BSc. Applied Computing (Information Security & Forensics) 
 
 ### `2012 - 2015` | Kanga High School
-* **KCSE**: **B+** *(agp 67)*
-* #2 I.C.T project in National Science Congress 2014, Rongo Sub-County  
+* **KCSE**: **B+** (agp 67) 
 
 ### `2009 - 2011` | Milimani Kitengela Junior Academy
-* **KCPE**: **(A)** *(agp 412)* 
+* **KCPE**: **(A)** (agp 412) 
 
 ### `2006 - 2009` | Kitengela Academy 
 * Mean **(A)** 
@@ -194,28 +181,12 @@
 ---
 **Other Certifications**:
 
-* CISCO Cybersecurity
 * Google IT Support Professional
-* Google Developer Student Club Lead
+* 2020 - 2021 Google Developer Student Club Lead
+* 2014 National Science Congress, 2nd I.C.T project Rongo Sub-County, 4th in Migori County 
+* More
 
 ---
-
-## Projects
-
-### [BOOKYT INVESTMENTS](https://github.com/Bookyt)
-
-*Co-Founder & Software Engineer | `2021- Ongoing`*
-
-Bookyt is a partnership Registered in Kenya that deals with research, development and sale of software and hardware
-
-<details>
-  <summary><b>Ongoing R&D projects</b></summary>
-
-* We have a mathematical algorithm and program for winning online games. 
-* We mine data, build and train custom machine learning models 
-* We build mobile apps 
-
-</details>
 
 ---
 <h3 align="left">My other social links:</h3>
