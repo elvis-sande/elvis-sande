@@ -163,10 +163,10 @@
 * BSc. Applied Computing (Information Security & Forensics) 
 
 ### `2012 - 2015` | Kanga High School
-* **KCSE**: **B+** (agp 67) 
+* **KCSE**: **B+**  
 
 ### `2009 - 2011` | Milimani Kitengela Junior Academy
-* **KCPE**: **(A)** (agp 412) 
+* **KCPE**: **(A)**  
 
 ### `2006 - 2009` | Kitengela Academy 
 * Mean **(A)** 
