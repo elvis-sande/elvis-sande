@@ -8,8 +8,8 @@
         Feel free to whatsapp me anytime GMT.<br>
     </i><br>
 </p>
-* [View my resume/CV](https://github.com/elvis-sande/resume-cv)
 ---
+* [View my resume/CV](https://github.com/elvis-sande/resume-cv)
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/elvis-sande/CreateTFRecord)
