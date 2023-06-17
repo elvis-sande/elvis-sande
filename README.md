@@ -9,6 +9,7 @@
     </i><br>
 </p>
 ---
+
 * [View my resume/CV](https://github.com/elvis-sande/resume-cv)
 
 ### Languages
