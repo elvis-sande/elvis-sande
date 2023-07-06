@@ -17,7 +17,6 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/elvis-sande/CreateTFRecord)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/elvis-sande/webcam-facemesh)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/elvis-sande/spelunkie)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/elvis-sande/spelunkie)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/elvis-sande/Kenyan_server_addresses)
 
 ### ML/DL
@@ -42,8 +41,6 @@
 
 <p align="left"> 
 
-<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 
 <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
